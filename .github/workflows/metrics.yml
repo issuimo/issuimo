@@ -40,7 +40,7 @@ jobs:
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
       - name: Most used
@@ -48,7 +48,7 @@ jobs:
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -67,7 +67,7 @@ jobs:
         with:
           filename: metrics.plugin.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: chartist
@@ -78,7 +78,7 @@ jobs:
         with:
           filename: metrics.plugin.topics.svg
           token: NOT_NEEDED
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_topics: yes
           plugin_topics_limit: 30
           plugin_topics_mode: icons
@@ -88,7 +88,7 @@ jobs:
         with:
           filename: metrics.plugin.stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_stars: yes
           plugin_stars_limit: 5
       - name: Licenses with open-source ratio graphs
@@ -96,7 +96,7 @@ jobs:
         with:
           filename: metrics.plugin.licenses.ratio.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           template: repository
           repo: metrics
           plugin_licenses: yes
@@ -108,7 +108,7 @@ jobs:
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: chartist
@@ -123,7 +123,7 @@ jobs:
         with:
           filename: metrics.plugin.followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
@@ -133,7 +133,7 @@ jobs:
         with:
           filename: metrics.plugin.repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_repositories: yes
           plugin_repositories_featured: lowlighter/metrics
       - name: Featured star list
@@ -141,7 +141,7 @@ jobs:
         with:
           filename: metrics.plugin.starlists.svg
           token: NOT_NEEDED
-          base: header, activity, community, repositories, metadata
+          base: ""
           pplugin_starlists: yes
           plugin_starlists_languages: yes
           plugin_starlists_limit: 2
@@ -153,7 +153,7 @@ jobs:
         with:
           filename: metrics.plugin.calendar.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
       - name: Compact display
@@ -161,7 +161,7 @@ jobs:
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
@@ -173,7 +173,7 @@ jobs:
         with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -186,7 +186,7 @@ jobs:
         with:
           filename: metrics.plugin.code.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_code: yes
           plugin_code_days: 3
           plugin_code_lines: 15
