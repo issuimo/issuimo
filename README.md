@@ -39,6 +39,8 @@
 
 <h2 align="center">📊 Info</h2>
 <div align="center"> 
+<source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  
   <table>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/issuimo/issuimo/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
