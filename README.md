@@ -48,10 +48,6 @@
    </tr>
   <tr>
      <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.languages.svg" /> </td>
-     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.topics.svg" /> </td>
-   </tr>
-  <tr>
-     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.stars.svg" /> </td>
      <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.calendar.full.svg" /> </td>
    </tr>
  </table>
