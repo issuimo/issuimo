@@ -52,7 +52,7 @@
    </tr>
   <tr>
      <td> <img src="metrics.plugin.stars.svg" /> </td>
-     <td> <img src="" /> </td>
+     <td> <img src="metrics.plugin.calendar.full.svg" /> </td>
    </tr>
  </table>
 </div>
