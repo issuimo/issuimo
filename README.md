@@ -88,6 +88,10 @@
 ![Ghidra](https://img.shields.io/badge/Ghidra-%23000000.svg?style=for-the-badge&logo=ghidra&logoColor=white)
 ![x64dbg](https://img.shields.io/badge/x64dbg-%23000000.svg?style=for-the-badge&logo=x64dbg&logoColor=white)
 ![OllyDBG](https://img.shields.io/badge/OllyDBG-%23000000.svg?style=for-the-badge&logo=ollydbg&logoColor=white)
+![Burp](https://img.shields.io/badge/Burp-%23000000.svg?style=for-the-badge&logo=burp-suite&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+![msfconsole](https://img.shields.io/badge/msfconsole-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+
 
 <h2 align="center">📊 Info</h2>
 
