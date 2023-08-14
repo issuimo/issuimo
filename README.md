@@ -39,5 +39,5 @@
 
 <h2 align="center">📊 Info</h2>
 <div align="center"> 
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  ![](https://raw.githubusercontent.com/issuimo/issuimo/main/assets/github-contribution-grid-snake.svg)
 </div>
