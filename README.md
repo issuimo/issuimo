@@ -38,6 +38,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
 <h2 align="center">📊 Info</h2>
+
 <div align="center"> 
-  ![](https://raw.githubusercontent.com/issuimo/issuimo/output/github-contribution-grid-snake.svg)
+ <img src="https://raw.githubusercontent.com/issuimo/issuimo/output/github-contribution-grid-snake.svg" />
 </div>
