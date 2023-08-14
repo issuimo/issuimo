@@ -39,24 +39,5 @@
 
 <h2 align="center">📊 Info</h2>
 <div align="center"> 
-<source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  
-  <table>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/issuimo/issuimo/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/issuimo/issuimo/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/issuimo/issuimo/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/issuimo/issuimo/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/issuimo/issuimo/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/issuimo/issuimo/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/issuimo/issuimo/github-metrics/base.svg" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/issuimo/issuimo/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-    </tr>
-</table>
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
 </div>
