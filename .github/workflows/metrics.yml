@@ -91,18 +91,6 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 5
-      - name: Licenses with open-source ratio graphs
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.licenses.ratio.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          plugin_licenses_legal: yes
-          plugin_licenses_ratio: yes
       - name: Mildly interesting facts
         uses: lowlighter/metrics@latest
         with:
