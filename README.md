@@ -40,19 +40,19 @@
 <h2 align="center">📊 Info</h2>
 
 <div align="center">
- <img src="https://github.com/issuimo/issuimo/github-contribution-grid-snake.svg" />
+ <img src="https://github.com/issuimo/issuimo/blob/output/github-contribution-grid-snake.svg" />
  <table>
    <tr>
-     <td> <img src="https://github.com/issuimo/issuimo/github-metrics.svg" /> </td>
-     <td> <img src="https://github.com/issuimo/issuimo/metrics.plugin.isocalendar.fullyear.svg" /> </td>
+     <td> <img src="https://github.com/issuimo/issuimo/blob/main/github-metrics.svg" /> </td>
+     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.isocalendar.fullyear.svg" /> </td>
    </tr>
   <tr>
-     <td> <img src="https://github.com/issuimo/issuimo/metrics.plugin.languages.svg" /> </td>
-     <td> <img src="https://github.com/issuimo/issuimo/metrics.plugin.topics.svg" /> </td>
+     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.languages.svg" /> </td>
+     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.topics.svg" /> </td>
    </tr>
   <tr>
-     <td> <img src="https://github.com/issuimo/issuimo/metrics.plugin.stars.svg" /> </td>
-     <td> <img src="https://github.com/issuimo/issuimo/metrics.plugin.calendar.full.svg" /> </td>
+     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.stars.svg" /> </td>
+     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.calendar.full.svg" /> </td>
    </tr>
  </table>
 </div>
