@@ -29,7 +29,6 @@
 
 <h2 align="center">⚙️ Tools</h2>
 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-vs-00a8e8?style=for-the-badge&logo=visual-studio)
 ![QT](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
