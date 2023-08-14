@@ -80,6 +80,9 @@
 ![CAD](https://img.shields.io/badge/CAD-%23007396.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Xmind](https://img.shields.io/badge/Xmind-%23F16B4C.svg?style=for-the-badge&logo=xmind&logoColor=white)
+![VMProtect](https://img.shields.io/badge/VMProtect-%23000000.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![dnSpy](https://img.shields.io/badge/dnSpy-%23000000.svg?style=for-the-badge&logo=.net&logoColor=white)
+![MSYS2](https://img.shields.io/badge/MSYS2-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <h2 align="center">📊 Info</h2>
 
