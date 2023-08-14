@@ -43,8 +43,16 @@
  <img src="https://raw.githubusercontent.com/issuimo/issuimo/output/github-contribution-grid-snake.svg" />
  <table>
    <tr>
-     <td></td>
-     <td><img src="https://metrics.lecoq.io/issuimo?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" /></td>
+     <td> <img src="github-metrics.svg" /> </td>
+     <td> <img src="metrics.plugin.isocalendar.fullyear.svg" /> </td>
+   </tr>
+  <tr>
+     <td> <img src="metrics.plugin.languages.svg" /> </td>
+     <td> <img src="metrics.plugin.topics.svg" /> </td>
+   </tr>
+  <tr>
+     <td> <img src="metrics.plugin.stars.svg" /> </td>
+     <td> <img src="" /> </td>
    </tr>
  </table>
 </div>
