@@ -83,6 +83,11 @@
 ![VMProtect](https://img.shields.io/badge/VMProtect-%23000000.svg?style=for-the-badge&logo=vmware&logoColor=white)
 ![dnSpy](https://img.shields.io/badge/dnSpy-%23000000.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![MSYS2](https://img.shields.io/badge/MSYS2-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![IDA](https://img.shields.io/badge/IDA-%23000000.svg?style=for-the-badge&logo=ida-pro&logoColor=white)
+![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-%23000000.svg?style=for-the-badge&logo=binary-ninja&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-%23000000.svg?style=for-the-badge&logo=ghidra&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-%23000000.svg?style=for-the-badge&logo=x64dbg&logoColor=white)
+![OllyDBG](https://img.shields.io/badge/OllyDBG-%23000000.svg?style=for-the-badge&logo=ollydbg&logoColor=white)
 
 <h2 align="center">📊 Info</h2>
 
