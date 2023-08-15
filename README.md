@@ -105,5 +105,17 @@
      <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.languages.svg" /> </td>
      <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.calendar.full.svg" /> </td>
    </tr>
+  <tr>
+     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.code.svg" /> </td>
+     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.activity.svg" /> </td>
+   </tr>
+  <tr>
+     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.achievements.compact.svg" /> </td>
+     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.followup.svg" /> </td>
+   </tr>
+  <tr>
+     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.habits.facts.svg" /> </td>
+     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.stars.svg" /> </td>
+   </tr>
  </table>
 </div>
