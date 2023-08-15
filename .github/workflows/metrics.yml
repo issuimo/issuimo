@@ -176,7 +176,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_code: yes
-          plugin_code_days: 3
-          plugin_code_lines: 15
-          plugin_code_load: 400
+          plugin_code_days: 30
+          plugin_code_lines: 30
+          plugin_code_load: 500
           plugin_code_visibility: public
