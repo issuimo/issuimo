@@ -69,11 +69,7 @@
    </tr>
   <tr>
      <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.languages.svg" /> </td>
-     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.stars.svg" /> </td>
-   </tr>
-  <tr>
-     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.code.svg" /> </td>
-     <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.activity.svg" /> </td>
+	 <td> <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.code.svg" /> </td>
    </tr>
  </table>
 </div>

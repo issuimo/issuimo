@@ -62,30 +62,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: issuimo
           plugin_languages_threshold: 0%
-      - name: Featured star list
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.starlists.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_starlists: yes
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_timestamps: yes
-          plugin_activity_visibility: all
       - name: JavaScript or TypeScript snippet of the day
         uses: lowlighter/metrics@latest
         with:
