@@ -63,68 +63,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: issuimo
           plugin_languages_threshold: 0%
-      - name: Using classic charts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.stargazers.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: chartist
-          plugin_stargazers_days: 14
-          plugin_stargazers_worldmap: yes
-      - name: Labels
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 30
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
-      - name: Recently starred
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.stars.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stars: yes
-          plugin_stars_limit: 5
-      - name: Mildly interesting facts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.facts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 10
-          plugin_habits_languages_threshold: 0%
-          plugin_habits_trim: yes
-      - name: Opened on user's repositories
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.followup.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: repositories
-      - name: Featured repositories
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.repositories.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_featured: lowlighter/metrics
       - name: Featured star list
         uses: lowlighter/metrics@latest
         with:
@@ -137,26 +75,6 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 2
           plugin_starlists_shuffle_repositories: yes
-      - name: Full history calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.calendar.full.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
-      - name: Compact display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
       - name: Recent activity
         uses: lowlighter/metrics@latest
         with:
