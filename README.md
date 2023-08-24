@@ -1,11 +1,4 @@
 <img align="center" src="https://github.com/issuimo/issuimo/assets/102911714/2304d23e-6600-42f2-b202-eec67e2af043" />
-<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
-
-- 📢 Hello, I am an ordinary C++ programmer who is currently involved in software and game reverse engineering, as well as anti-reverse engineering. I also work on single-chip microcontroller/embedded development and writing virtual machine protection shells for software on Windows similar to VMP. Sometimes I also write mods for games and Try doing things I have never tried before.
-
-- 📢 I started getting involved in software development and cracking since 2019, mostly focusing on game-related software. My knowledge is more centered around how to prevent cracking. Due to my extensive experience in game development, I have a good understanding of C/C++ and even assembly programming. Additionally, I have decent knowledge and experience in C# due to my exposure to Unity game development. While my experience in Linux and web development is not particularly outstanding, I do possess a basic foundation in those areas.
-
-- 📢 Currently, I am still learning in the fields of reverse engineering, anti-reverse engineering, and exploring other areas of development as well.
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
