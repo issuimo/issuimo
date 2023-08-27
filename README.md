@@ -25,37 +25,6 @@
 ![XML](https://img.shields.io/badge/XML-%231572B6.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 
-<h2 align="center">⚙️ Tools</h2>
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VSCode](https://img.shields.io/badge/-vs-00a8e8?style=for-the-badge&logo=visual-studio)
-![QT](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%2317BEBB.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-%230075A8.svg?style=for-the-badge&logo=clion&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-%23000000.svg?style=for-the-badge&logo=rider&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
-![IDEA](https://img.shields.io/badge/IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelOneApi](https://img.shields.io/badge/IntelOneApi-%23005CDB.svg?style=for-the-badge&logo=intel&logoColor=white)
-![clang](https://img.shields.io/badge/clang-%23FF6700.svg?style=for-the-badge&logo=llvm&logoColor=white)
-![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
-![Lazarus](https://img.shields.io/badge/Lazarus-%234D8BBA.svg?style=for-the-badge&logo=lazarus&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-%23000000.svg?style=for-the-badge&logo=datagrip&logoColor=white)
-![Qt Design Studio](https://img.shields.io/badge/Qt%20Design%20Studio-%23000000.svg?style=for-the-badge&logo=qt&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-%231572B6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![dotMemory](https://img.shields.io/badge/dotMemory-%23323330.svg?style=for-the-badge&logo=jetbrains&logoColor=%23F7DF1E)
-![dotCover](https://img.shields.io/badge/dotCover-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-![dotPeek](https://img.shields.io/badge/dotPeek-%23FF6600.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-![dotTrace](https://img.shields.io/badge/dotTrace-%23805CFC.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-%23000000.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
-
-
 <h2 align="center">📊 Info</h2>
 
 <div align="center">
