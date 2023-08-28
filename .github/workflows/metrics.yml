@@ -62,15 +62,3 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: issuimo
           plugin_languages_threshold: 0%
-      - name: JavaScript or TypeScript snippet of the day
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.code.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_code: yes
-          plugin_code_days: 30
-          plugin_code_lines: 30
-          plugin_code_load: 500
-          plugin_code_skipped: issuimo
-          plugin_code_visibility: public
