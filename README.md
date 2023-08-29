@@ -9,23 +9,29 @@
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![ASM](https://img.shields.io/badge/ASM-%234F4F4F.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![JAVA](https://img.shields.io/badge/java-%23FF5722.svg?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP .NET](https://img.shields.io/badge/ASP.NET-%234D8BBA.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-%23005FBB.svg?style=for-the-badge&logo=pascal&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-%234D8BBA.svg?style=for-the-badge&logo=fortran&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![QML](https://img.shields.io/badge/QML-%23F7DF1E.svg?style=for-the-badge&logo=qml&logoColor=black)
-![WPF](https://img.shields.io/badge/WPF-%23000000.svg?style=for-the-badge&logo=.net&logoColor=white)
-![XML](https://img.shields.io/badge/XML-%231572B6.svg?style=for-the-badge&logo=xml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+### 目前掌握
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) : 在学校工作室内学的 \
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) : 在学校工作室内学的 \
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f) : 在学校工作室内学的 \
+![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white) : 学校教学内容之一 \
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) : 自学，也是最喜欢的一个语言之一 \
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  : 自学，也是最喜欢的一个语言之一 \
+![ASM](https://img.shields.io/badge/ASM-%234F4F4F.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) : 写挂时自学 \
+![JAVA](https://img.shields.io/badge/java-%23FF5722.svg?style=for-the-badge&logo=java&logoColor=white) : 学校教学内容 \
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) : 自学, 也是最喜欢的一个语言之一 \
+![ASP .NET](https://img.shields.io/badge/ASP.NET-%234D8BBA.svg?style=for-the-badge&logo=.net&logoColor=white) : 在学校工作室内写前端时没后端用顺手学了一下 \
+![Pascal](https://img.shields.io/badge/Pascal-%23005FBB.svg?style=for-the-badge&logo=pascal&logoColor=white) : 魔改CE时学的 \
+![Fortran](https://img.shields.io/badge/Fortran-%234D8BBA.svg?style=for-the-badge&logo=fortran&logoColor=white) : 尝试高性能运算时学的 \
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) : 学校教学内容 \
+![QML](https://img.shields.io/badge/QML-%23F7DF1E.svg?style=for-the-badge&logo=qml&logoColor=black) : 用QT给C++写图形界面时学的 \
+![WPF](https://img.shields.io/badge/WPF-%23000000.svg?style=for-the-badge&logo=.net&logoColor=white) : 写C#界面时学的, 也是最喜欢的图形界面 \
+![XML](https://img.shields.io/badge/XML-%231572B6.svg?style=for-the-badge&logo=xml&logoColor=white) : 这不有手就行 \
+![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) : 这不有手就行 \
+![RUST](https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white) : 还在学, 挺好的一个语言
+### 之后打算
+![PHP](https://img.shields.io/badge/PHP-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white) : 打算中 \
+![RUBY](https://img.shields.io/badge/Ruby-%231.svg?style=for-the-badge&logo=ruby&logoColor=white) : 打算中 \
+![GO](https://img.shields.io/badge/GO-%231572B6.svg?style=for-the-badge&logo=go&logoColor=white) : 打算中
 
 <h2 align="center">⚙️ Tools</h2>
 
