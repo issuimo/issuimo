@@ -31,7 +31,8 @@
 ### 之后打算
 ![PHP](https://img.shields.io/badge/PHP-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white) : 打算中 \
 ![RUBY](https://img.shields.io/badge/Ruby-%231.svg?style=for-the-badge&logo=ruby&logoColor=white) : 打算中 \
-![GO](https://img.shields.io/badge/GO-%231572B6.svg?style=for-the-badge&logo=go&logoColor=white) : 打算中
+![GO](https://img.shields.io/badge/GO-%231572B6.svg?style=for-the-badge&logo=go&logoColor=white) : 打算中 \
+![VUE](https://img.shields.io/badge/vue-%231.svg?style=for-the-badge&logo=vue&logoColor=white) : 打算中
 
 <h2 align="center">⚙️ Tools</h2>
 
