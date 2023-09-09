@@ -27,7 +27,8 @@
 ![WPF](https://img.shields.io/badge/WPF-%23000000.svg?style=for-the-badge&logo=.net&logoColor=white) : 写C#界面时学的, 也是最喜欢的图形界面 \
 ![XML](https://img.shields.io/badge/XML-%231572B6.svg?style=for-the-badge&logo=xml&logoColor=white) : 这不有手就行 \
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) : 这不有手就行 \
-![RUST](https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white) : 还在学, 挺好的一个语言
+![RUST](https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white) : 还在学, 挺好的一个语言 \
+![JavaWeb](https://img.shields.io/badge/JavaWeb-%23FF5722.svg?style=for-the-badge&logo=java&logoColor=white) : 还在学, 但感觉不如ASP好使
 ### 之后打算
 ![PHP](https://img.shields.io/badge/PHP-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white) : 打算中 \
 ![RUBY](https://img.shields.io/badge/Ruby-%231.svg?style=for-the-badge&logo=ruby&logoColor=white) : 打算中 \
