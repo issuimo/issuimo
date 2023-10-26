@@ -1,4 +1,6 @@
-## [My Blog](https://issuimoo.com/)
+> ## [My Blog Link#1 - issuimoo.com](https://issuimoo.com/)
+> ## [My Blog Link#2 - 遂沫.com](https://遂沫.com/)
+> Email: a1992724048@outlook.com & 1992724048@qq.com
 
 ### ESVMP (Enterprise Super Virtual Machine Protection) 程序保护壳
 > [!NOTE]\
