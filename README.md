@@ -21,10 +21,6 @@
 > - Python
 > - 按代码量收费
 
-<img align="center" src="https://github.com/issuimo/issuimo/assets/102911714/2304d23e-6600-42f2-b202-eec67e2af043" />
-
-<h2 align="center">📊 Info</h2>
-
 <div align="center">
  <img src="https://github.com/issuimo/issuimo/blob/output/github-contribution-grid-snake.svg" />
  <table>
