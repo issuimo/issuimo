@@ -1,7 +1,3 @@
-> ## [My Blog Link#1 - issuimoo.com](https://issuimoo.com/)
-> ## [My Blog Link#2 - 遂沫.com](https://遂沫.com/)
-> 
-
 <div align="center">
  <img src="https://github.com/issuimo/issuimo/blob/output/github-contribution-grid-snake.svg" />
  <table>
@@ -16,3 +12,10 @@
 	</tr>
  </table>
 </div>
+
+> #### [My Blog Link#1](https://issuimoo.com/) | [My Blog Link#2](https://遂沫.com/)
+#### Contact me
+> - QQ: 1992724048
+> - Telegram: @ISSUIMO
+> - bilibili: <a style="color: pink;" href="https://space.bilibili.com/319091647">bilibili</a>
+> - Email: 1992724048@qq.com
