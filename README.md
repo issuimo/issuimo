@@ -13,8 +13,9 @@
  </table>
 </div>
 
-> #### [My Blog Link#1](https://issuimoo.com/) | [My Blog Link#2](https://遂沫.com/)
-#### Contact me
+#### 🔗 博客 | Blog
+> #### [Link#1](https://issuimoo.com/) | [Link#2](https://遂沫.com/)
+#### 📧 联系我 | Contact me
 > - QQ: 1992724048
 > - Telegram: @ISSUIMO
 > - bilibili: <a style="color: pink;" href="https://space.bilibili.com/319091647">bilibili</a>
