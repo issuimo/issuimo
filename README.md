@@ -12,9 +12,10 @@
 	</tr>
  </table>
 </div>
-
+#### 🧭 导航 | Navigation
+> [戳我戳我](https://遂沫.com/)
 #### 🔗 博客 | Blog
-> #### [Link#1](https://issuimoo.com/) | [Link#2](https://遂沫.com/)
+> #### [戳我戳我](https://issuimoo.com/)
 #### 📧 联系我 | Contact me
 > - QQ: 1992724048
 > - Telegram: @ISSUIMO
