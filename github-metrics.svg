@@ -259,7 +259,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">issuimo/edgeVoice</span>
+                            <span class="diff-handle">issuimo/go-bolg</span>
                         </div>
                     </section>
                     <section>
@@ -306,8 +306,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +8.27k</span>
-                                <span class="deleted"> -5.31k</span>
+                                <span class="added"> +8.29k</span>
+                                <span class="deleted"> -5.32k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -330,8 +330,8 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +364</span>
-                                <span class="deleted">     -5</span>
+                                <span class="added"> +2.54k</span>
+                                <span class="deleted">   -114</span>
                             </div>
                             <span> </span>
                         </div>
@@ -378,7 +378,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Feb 2024, 20:25:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Feb 2024, 21:16:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
