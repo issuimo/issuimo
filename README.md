@@ -23,5 +23,3 @@
 > - Telegram: @ISSUIMO
 > - bilibili: <a style="color: pink;" href="https://space.bilibili.com/319091647">bilibili</a>
 > - Email: 1992724048@qq.com
-
-![04C91D3E9AE04C44636A59477E34134C](https://github.com/issuimo/issuimo/assets/102911714/9b7bbcef-c6c4-4708-b5b5-5eaf88c43f8f)
